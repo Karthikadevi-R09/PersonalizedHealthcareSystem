@@ -1,0 +1,8 @@
+node_modules/
+target/
+__pycache__/
+.idea/
+.vscode/
+.angular/
+dist/
+*.pyc
